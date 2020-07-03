@@ -26,7 +26,7 @@ A aplicação deverá estar disponível no GitHub com o código fonte do projeto
 
 ## Extras
 1) Teste de integração da API em linguagem de sua preferência;
-2) A API deverá conter documentação (Javadoc );
+2) A API deverá conter documentação (Javadoc);
 3) Versão 2 da API que deve incluir endereço da pessoa como dado obrigatório. Versão 1 deve continuar funcionando.
 
 ## EndPoints
